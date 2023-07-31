@@ -3,7 +3,7 @@ English:
 
 This Workspace contains Academic Repositories that i created for some college disciplines (Im a Student), in The Centro Universitario UNIMATER.
 
-Some of the languages are: C++, C, Jupyter Notebook(Python based), CSS, HTML, JavaScript and TypeScript.
+Some of the languages are: C++, C, Jupyter Notebook (Python based), CSS, HTML, JavaScript and TypeScript.
 
 In Some of the disciplines i used Visual Studio Code, in others i used Google Coolaboratory, Arduino and Raspberry.                            
                                                                                                                                                  
